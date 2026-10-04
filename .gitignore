@@ -1,0 +1,68 @@
+# Submodules & external tools
+voidaccess_eval/
+*voidaccess*
+
+# Local tools, skills & configs
+.codegraph/
+**/.codegraph/
+.agents/
+**/.agents/
+.codex-build/
+**/.codex-build/
+skills-lock.json
+**/skills-lock.json
+context.env
+**/context.env
+
+# Excluded folders (root & jane)
+/data/
+.vscode/
+/src/
+/SIH/
+/backup/
+jane/SIH/
+jane/better_pdf/
+jane/brag-output/
+jane/old_files/
+**/SIH/
+**/better_pdf/
+**/brag-output/
+**/old_files/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Data directory contents (keep directory structure with .gitkeep only)
+jane/data/**
+!jane/data/**/
+!jane/data/**/.gitkeep
+
+# Context & integration docs
+CURRENT_STATE_CONTEXT*
+**/CURRENT_STATE_CONTEXT*
+OPENCODE_INTEGRATION_GUIDE*
+**/OPENCODE_INTEGRATION_GUIDE*
+*PROJECT_DOCUMENTATION*
+**/PROJECT_DOCUMENTATION*
+*deep-research*
+**/deep-research*
+*research*.md
+**/research*.md
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Logs & temp
+*.log
+jane/data/logs/
+
+# Node
+node_modules/
+.next/

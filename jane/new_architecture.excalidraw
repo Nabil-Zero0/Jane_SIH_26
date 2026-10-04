@@ -1,0 +1,1232 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "zN3QpCtuokrYs9De0rDzE",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 1800,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFQ",
+      "roundness": null,
+      "seed": 719648019,
+      "version": 141,
+      "versionNonce": 597684675,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010368706,
+      "link": null,
+      "locked": false,
+      "text": "JANE PIPELINE ARCHITECTURE (END-TO-END FLOW)",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "JANE PIPELINE ARCHITECTURE (END-TO-END FLOW)",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "NRHLMqSkJ2FdHVSJMIdEZ",
+      "type": "text",
+      "x": 0,
+      "y": 50,
+      "width": 2200,
+      "height": 18.75,
+      "angle": 0,
+      "strokeColor": "#495057",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFR",
+      "roundness": null,
+      "seed": 457890483,
+      "version": 141,
+      "versionNonce": 920830307,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010368706,
+      "link": null,
+      "locked": false,
+      "text": "From User Query to Whonix Scout, Locksmith, Stylometry, OpenCode AI, and Graph",
+      "fontSize": 16,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "From User Query to Whonix Scout, Locksmith, Stylometry, OpenCode AI, and Graph",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "lsiRm9Nm7MK181SmhBzpy",
+      "type": "rectangle",
+      "x": 0,
+      "y": 140,
+      "width": 520,
+      "height": 190,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#ebfbee",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFS",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2099448915,
+      "version": 141,
+      "versionNonce": 1684708611,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "stC7EDoPTEbuZAEBgt04H",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010368706,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "OKV-_1APTaWuc6NGLIu5E",
+      "type": "text",
+      "x": 18,
+      "y": 156,
+      "width": 484,
+      "height": 162,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFT",
+      "roundness": null,
+      "seed": 71567859,
+      "version": 165,
+      "versionNonce": 934675619,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010368706,
+      "link": null,
+      "locked": false,
+      "text": "1. FRONTEND INVESTIGATION SETUP (Windows Host)\n• Query: User enters search terms (e.g. \"stolen cards Mumbai\", \"ak47 escrow\").\n• Search Providers: Selects active engines (Ahmia, Torch, Tor66, Curated Seeds).\n• Target URL Limit (Max Onions): Number of unique .onion sites to shortlist (default: 5).\n• Crawl Depth (Max Depth): How deep to follow subpages (Depth 1 = landing only, Depth 2+ = follows\nlinks).",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. FRONTEND INVESTIGATION SETUP (Windows Host)\n• Query: User enters search terms (e.g. \"stolen cards Mumbai\", \"ak47 escrow\").\n• Search Providers: Selects active engines (Ahmia, Torch, Tor66, Curated Seeds).\n• Target URL Limit (Max Onions): Number of unique .onion sites to shortlist (default: 5).\n• Crawl Depth (Max Depth): How deep to follow subpages (Depth 1 = landing only, Depth 2+ = follows links).",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "08hUphsH9ailwwx6QhXKP",
+      "type": "rectangle",
+      "x": 600,
+      "y": 140,
+      "width": 520,
+      "height": 220,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFo",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 237034461,
+      "version": 325,
+      "versionNonce": 1778077667,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "zkgNc_YCoC0Uxw1LDuTlZ"
+        },
+        {
+          "id": "stC7EDoPTEbuZAEBgt04H",
+          "type": "arrow"
+        },
+        {
+          "id": "YUgcRpfHiN7IuBw3Q2XpD",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067729458,
+      "created": 1790010430683,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "zkgNc_YCoC0Uxw1LDuTlZ",
+      "type": "text",
+      "x": 618,
+      "y": 156,
+      "width": 484,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFp",
+      "roundness": null,
+      "seed": 757800915,
+      "version": 269,
+      "versionNonce": 1919769475,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067729458,
+      "created": 1790010434188,
+      "link": null,
+      "locked": false,
+      "text": "Then as soon as the user hits Enter, we create an opencode session or we\ncreate a folder for that job because we need to keep the things organized. In\nit there is some kind of metadata JSON for opencode, including the\ntimestamps when this opencode session was started or this user entered\nthe query, the opencode session URL, and other metadata. This folder will\ncontain many subfolders as well as more JSON files, such as the output of\neach engine. I have not thought clearly about it but we will create a pretty\norganized folder which will include multiple folders for different engines.\nEach individual output, like the HTML of each onion URL, will be stored in a\nparticular folder maybe or maybe a folder named HTML can have all the\nHTML files. The output of each engine will be stored here. All the\ninformation must be stored somewhere in this folder, properly organized,\nand this will be a format followed for all the other newly created jobs, so a\nformat will be followed for the folder structure for each new job. ",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "08hUphsH9ailwwx6QhXKP",
+      "originalText": "Then as soon as the user hits Enter, we create an opencode session or we create a folder for that job because we need to keep the things organized. In it there is some kind of metadata JSON for opencode, including the timestamps when this opencode session was started or this user entered the query, the opencode session URL, and other metadata. This folder will contain many subfolders as well as more JSON files, such as the output of each engine. I have not thought clearly about it but we will create a pretty organized folder which will include multiple folders for different engines. Each individual output, like the HTML of each onion URL, will be stored in a particular folder maybe or maybe a folder named HTML can have all the HTML files. The output of each engine will be stored here. All the information must be stored somewhere in this folder, properly organized, and this will be a format followed for all the other newly created jobs, so a format will be followed for the folder structure for each new job. ",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "stC7EDoPTEbuZAEBgt04H",
+      "type": "arrow",
+      "x": 520,
+      "y": 235.0,
+      "width": 80,
+      "height": 15.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFq",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1131795699,
+      "version": 238,
+      "versionNonce": 601682723,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067729458,
+      "created": 1790010498143,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          15.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "lsiRm9Nm7MK181SmhBzpy",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "08hUphsH9ailwwx6QhXKP",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "dOPErUac_104cQ24VOrVE",
+      "type": "rectangle",
+      "x": 1200,
+      "y": 140,
+      "width": 520,
+      "height": 220,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFr",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2016774963,
+      "version": 198,
+      "versionNonce": 1406201443,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "EqLCUOCERrPwGMCL3fgHx"
+        },
+        {
+          "id": "YUgcRpfHiN7IuBw3Q2XpD",
+          "type": "arrow"
+        },
+        {
+          "id": "KX7X7jHcdzKNhUmYRwhwg",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010504276,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "EqLCUOCERrPwGMCL3fgHx",
+      "type": "text",
+      "x": 1218,
+      "y": 156,
+      "width": 484,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFs",
+      "roundness": null,
+      "seed": 22608157,
+      "version": 129,
+      "versionNonce": 2097883651,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010590404,
+      "link": null,
+      "locked": false,
+      "text": "Then this opencode session has been made. This opencode session is\nlinked with this job forever for his entire life.\n\nNow the user entered his query with the other information, such as the\nmax URL and the depth. We go ahead and use opencode and give him a\nprompt like: \"You are an Tro AI agent whose job right now is to create\nfan-out queries to search on the dark web for the original user query\ngiven below and then replace the user query with the original query.\"\n\nIn the frontend we will also add this: along with max onion URLs, the user\ncan also select the number of fan-out queries. The default is 3. Opencode\nwill also get that to create 3 or 4, depending on what the user has\nselected, fan-out queries for the original query. Opencode will give a valid\nJSON containing just the queries, 3 queries for example if it is set to\ndefault.",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "dOPErUac_104cQ24VOrVE",
+      "originalText": "Then this opencode session has been made. This opencode session is linked with this job forever for his entire life.\n\nNow the user entered his query with the other information, such as the max URL and the depth. We go ahead and use opencode and give him a prompt like: \"You are an Tro AI agent whose job right now is to create fan-out queries to search on the dark web for the original user query given below and then replace the user query with the original query.\"\n\nIn the frontend we will also add this: along with max onion URLs, the user can also select the number of fan-out queries. The default is 3. Opencode will also get that to create 3 or 4, depending on what the user has selected, fan-out queries for the original query. Opencode will give a valid JSON containing just the queries, 3 queries for example if it is set to default.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "YUgcRpfHiN7IuBw3Q2XpD",
+      "type": "arrow",
+      "x": 1120,
+      "y": 250.0,
+      "width": 80,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFt",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1132327453,
+      "version": 273,
+      "versionNonce": 515413699,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067729458,
+      "created": 1790010696012,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          0.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "08hUphsH9ailwwx6QhXKP",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "dOPErUac_104cQ24VOrVE",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "0jFzW6X7NI05j7ZZqNWbR",
+      "type": "rectangle",
+      "x": 1800,
+      "y": 140,
+      "width": 520,
+      "height": 220,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFu",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1770750931,
+      "version": 308,
+      "versionNonce": 840222019,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "KX7X7jHcdzKNhUmYRwhwg",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010714321,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "75S4071TIY8ZkPhzAgyyN",
+      "type": "text",
+      "x": 1818,
+      "y": 156,
+      "width": 484,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFv",
+      "roundness": null,
+      "seed": 1269928307,
+      "version": 255,
+      "versionNonce": 1450255587,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "4BAs9s3L1lschZCetRKsa",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010714321,
+      "link": null,
+      "locked": false,
+      "text": "2. DARK WEB SEARCH & SHORTLISTING (Whonix VM)\n• Whonix Daemon: Picks up job_<id>.json from shared folder.\n• Search Queries: Fires each fanout query sequence, like fanout query number 1 in Ahmia, gets the target\nURLs the user selected and then the second fanout query on Ahmia, and then the third, and so on across\nchosen search engines (Ahmia, Torch, Tor66).[Default engine is Ahmia but we have also kept other engines\nnot added yet in the code because Ahmia gives, most of the time, 504 error]\n• URL Deduplication:\n  - Scans search results using regex for 56-character v3 .onion domains.\n  - Drops duplicate addresses, malformed links, and search engine self-links.\n• Shortlist Cap: Keeps strictly up to Max Onions unique sites; drops the rest.",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "2. DARK WEB SEARCH & SHORTLISTING (Whonix VM)\n• Whonix Daemon: Picks up job_<id>.json from shared folder.\n• Search Queries: Fires each fanout query sequence, like fanout query number 1 in Ahmia, gets the target URLs the user selected and then the second fanout query on Ahmia, and then the third, and so on across chosen search engines (Ahmia, Torch, Tor66).[Default engine is Ahmia but we have also kept other engines not added yet in the code because Ahmia gives, most of the time, 504 error]\n• URL Deduplication:\n  - Scans search results using regex for 56-character v3 .onion domains.\n  - Drops duplicate addresses, malformed links, and search engine self-links.\n• Shortlist Cap: Keeps strictly up to Max Onions unique sites; drops the rest.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "KX7X7jHcdzKNhUmYRwhwg",
+      "type": "arrow",
+      "x": 1720,
+      "y": 250.0,
+      "width": 80,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFw",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1613617235,
+      "version": 204,
+      "versionNonce": 1533055107,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010719626,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          0.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "dOPErUac_104cQ24VOrVE",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "0jFzW6X7NI05j7ZZqNWbR",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "Ofl3JBIef-a-DjqfEVUBN",
+      "type": "rectangle",
+      "x": 2400,
+      "y": 140,
+      "width": 520,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFx",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 592785395,
+      "version": 227,
+      "versionNonce": 1386317859,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "eE8Aq-ERFzoU56wqta9qm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010800247,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "J7HIxt4z4pcI91lrYD_Bf",
+      "type": "text",
+      "x": 2418,
+      "y": 156,
+      "width": 484,
+      "height": 222,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFy",
+      "roundness": null,
+      "seed": 1404090771,
+      "version": 229,
+      "versionNonce": 304253891,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "4BAs9s3L1lschZCetRKsa",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010800247,
+      "link": null,
+      "locked": false,
+      "text": "3. DEEP CRAWL & EVIDENCE SCRAPING (Whonix VM)\n• Engine: Standard Python urllib routed through Whonix Tor SOCKS (10.152.152.10:9050). No pip/httpx\nneeded.\n• Outbound Link Handling (Controlled by Max Depth):\n  - Max Depth = 1: Crawls only the landing page. Outbound links are recorded but NOT followed.\n  - Max Depth = 2+: Queues internal links (same onion domain) for subpage scraping. External links recorded.\n• Captured Fields (JSON Schema):\n  url, onion_address, title, cleaned_text, raw_html, raw_content_hash (SHA-256),\n  template_hash, http_status, byte_size, response_headers, meta_tags, outbound_links,\n  image_urls, asset_urls, scrape_timestamp.\n\nYou remember the folder we created \nafter step one for opencode, all of this thing that we scraped for each unique onion link will be stored in the\ndatabase. At the same time it also will be stored in a file structure, like in that folder with the proper structure\nof files and stuff. \n",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "3. DEEP CRAWL & EVIDENCE SCRAPING (Whonix VM)\n• Engine: Standard Python urllib routed through Whonix Tor SOCKS (10.152.152.10:9050). No pip/httpx needed.\n• Outbound Link Handling (Controlled by Max Depth):\n  - Max Depth = 1: Crawls only the landing page. Outbound links are recorded but NOT followed.\n  - Max Depth = 2+: Queues internal links (same onion domain) for subpage scraping. External links recorded.\n• Captured Fields (JSON Schema):\n  url, onion_address, title, cleaned_text, raw_html, raw_content_hash (SHA-256),\n  template_hash, http_status, byte_size, response_headers, meta_tags, outbound_links,\n  image_urls, asset_urls, scrape_timestamp.\n\nYou remember the folder we created \nafter step one for opencode, all of this thing that we scraped for each unique onion link will be stored in the database. At the same time it also will be stored in a file structure, like in that folder with the proper structure of files and stuff. \n",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "4BAs9s3L1lschZCetRKsa",
+      "type": "arrow",
+      "x": 2320,
+      "y": 250.0,
+      "width": 80,
+      "height": 15.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bFz",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1655285779,
+      "version": 122,
+      "versionNonce": 771890019,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010804590,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          15.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "0jFzW6X7NI05j7ZZqNWbR",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "Ofl3JBIef-a-DjqfEVUBN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "CQ8_vcjRKOMQ9aSe17mLl",
+      "type": "rectangle",
+      "x": 2400,
+      "y": 470,
+      "width": 520,
+      "height": 170,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG1",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 306349299,
+      "version": 191,
+      "versionNonce": 848213763,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "KOrojgO9EUU3NfHDLKFZl"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790010854170,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "KOrojgO9EUU3NfHDLKFZl",
+      "type": "text",
+      "x": 2418,
+      "y": 486,
+      "width": 484,
+      "height": 142,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG2",
+      "roundness": null,
+      "seed": 440871677,
+      "version": 156,
+      "versionNonce": 507960995,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790010857340,
+      "link": null,
+      "locked": false,
+      "text": "I'm a bit worried about the crawling because we use standard Python\nurllib. Because I asked Perplexity, I just told him the entire architecture\nthat we use this urllib. And you told me this is a very fast library for\nstatic pages but most of the modern dark web pages have JavaScript as\nwell. Even HTTPX is not good so you are suggesting Playwright but\nshould we even change it because Playwright adds a whole lot more\ncomplexity? Maybe we could just stick with urllib ? And maybe in future\nwe could add Playwright or HTTPX.  ",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "CQ8_vcjRKOMQ9aSe17mLl",
+      "originalText": "I'm a bit worried about the crawling because we use standard Python urllib. Because I asked Perplexity, I just told him the entire architecture that we use this urllib. And you told me this is a very fast library for static pages but most of the modern dark web pages have JavaScript as well. Even HTTPX is not good so you are suggesting Playwright but should we even change it because Playwright adds a whole lot more complexity? Maybe we could just stick with urllib ? And maybe in future we could add Playwright or HTTPX.  ",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Uidt_CjvScENNXZ5mBLXx",
+      "type": "rectangle",
+      "x": 3000,
+      "y": 140,
+      "width": 520,
+      "height": 220,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "#fff9db",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG3",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 357946787,
+      "version": 211,
+      "versionNonce": 467210819,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "5wAo-q7Qkd06GFVc75T8q",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790064077430,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "nAE93Y4xVMGNpJN2yH1xF",
+      "type": "text",
+      "x": 3018,
+      "y": 156,
+      "width": 484,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG4",
+      "roundness": null,
+      "seed": 1676749123,
+      "version": 259,
+      "versionNonce": 1882561923,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790064077430,
+      "link": null,
+      "locked": false,
+      "text": "4. LOCKSMITH ENGINE: INFRASTRUCTURE & IP UNMASKING (Host)\n• Input: response_headers, raw_html, favicon.ico bytes from scraped pages.\n• Favicon MMH3 Hash:\n  - Computes 32-bit MurmurHash3 of favicon -> generates Shodan dork: http.favicon.hash:<hash>.\n  - Unmasks clearnet IP addresses hosting the same web application or forum icon!\n• Leaked IP Finder: Scans HTML/text for non-private IPv4 addresses (clearnet server leaks, /server-status).\n• Shodan InternetDB: Queries free API (internetdb.shodan.io) for open ports, hostnames, and known CVEs.\n• Output: Extracted server banners, ETags, favicon hashes, and enriched IP leak records.",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "4. LOCKSMITH ENGINE: INFRASTRUCTURE & IP UNMASKING (Host)\n• Input: response_headers, raw_html, favicon.ico bytes from scraped pages.\n• Favicon MMH3 Hash:\n  - Computes 32-bit MurmurHash3 of favicon -> generates Shodan dork: http.favicon.hash:<hash>.\n  - Unmasks clearnet IP addresses hosting the same web application or forum icon!\n• Leaked IP Finder: Scans HTML/text for non-private IPv4 addresses (clearnet server leaks, /server-status).\n• Shodan InternetDB: Queries free API (internetdb.shodan.io) for open ports, hostnames, and known CVEs.\n• Output: Extracted server banners, ETags, favicon hashes, and enriched IP leak records.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "eE8Aq-ERFzoU56wqta9qm",
+      "type": "arrow",
+      "x": 2920,
+      "y": 265.0,
+      "width": 80,
+      "height": -15.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1681490445,
+      "version": 143,
+      "versionNonce": 55375139,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790067719209,
+      "created": 1790066260203,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          -15.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "Ofl3JBIef-a-DjqfEVUBN",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "Uidt_CjvScENNXZ5mBLXx",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "A87_JtChxS4JOz5VZ4m2i",
+      "type": "rectangle",
+      "x": 3600,
+      "y": 140,
+      "width": 520,
+      "height": 220,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "#fff5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG6",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 25014765,
+      "version": 291,
+      "versionNonce": 1423464643,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "5wAo-q7Qkd06GFVc75T8q",
+          "type": "arrow"
+        },
+        {
+          "id": "6uD0_IHmo83dWqG2qFD3h",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790066313746,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "EyaN_LavKMcMjBmDDCi2Q",
+      "type": "text",
+      "x": 3618,
+      "y": 156,
+      "width": 484,
+      "height": 192,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG7",
+      "roundness": null,
+      "seed": 1546316877,
+      "version": 254,
+      "versionNonce": 1800653731,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719209,
+      "created": 1790066313746,
+      "link": null,
+      "locked": false,
+      "text": "5. STYLOMETRY & OPSEC PROFILER (Host)\n• Input: cleaned_text (>100 words) and timestamps of dark web forum/vendor listings.\n• Vector Extraction:\n  - Frequencies of top 50 subconscious function words (the, of, and, in, with...).\n  - Average word length, vocabulary richness (Yule's K), and punctuation density.\n• Authorship Attribution (Burrows' Delta):\n  - Cross-compares writing styles across different onion sites.\n  - If similarity > 0.75, generates LIKELY_SAME_AUTHOR edge linking the personas!\n• OpSec Leaks: Catches clearnet slips (ProtonMail, GitHub, usernames) & analyzes posting hours for UTC timezone.\n• Output: OpSec Score (0-100), timezone estimate, and stylometric cross-comparison dossier.",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "5. STYLOMETRY & OPSEC PROFILER (Host)\n• Input: cleaned_text (>100 words) and timestamps of dark web forum/vendor listings.\n• Vector Extraction:\n  - Frequencies of top 50 subconscious function words (the, of, and, in, with...).\n  - Average word length, vocabulary richness (Yule's K), and punctuation density.\n• Authorship Attribution (Burrows' Delta):\n  - Cross-compares writing styles across different onion sites.\n  - If similarity > 0.75, generates LIKELY_SAME_AUTHOR edge linking the personas!\n• OpSec Leaks: Catches clearnet slips (ProtonMail, GitHub, usernames) & analyzes posting hours for UTC timezone.\n• Output: OpSec Score (0-100), timezone estimate, and stylometric cross-comparison dossier.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "5wAo-q7Qkd06GFVc75T8q",
+      "type": "arrow",
+      "x": 3520,
+      "y": 250.0,
+      "width": 80,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1173112067,
+      "version": 202,
+      "versionNonce": 309741667,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790067719209,
+      "created": 1790066352028,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          0.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "Uidt_CjvScENNXZ5mBLXx",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "A87_JtChxS4JOz5VZ4m2i",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "NrVCcAzNn2VOKyJVpZ9tZ",
+      "type": "rectangle",
+      "x": 4200,
+      "y": 140,
+      "width": 620,
+      "height": 330,
+      "angle": 0,
+      "strokeColor": "#7048e8",
+      "backgroundColor": "#f3f0ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bG9",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1027300749,
+      "version": 257,
+      "versionNonce": 1925209923,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "6uD0_IHmo83dWqG2qFD3h",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1790067719209,
+      "created": 1790066366084,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "jewqB-oUmWaaUoon4ciBo",
+      "type": "text",
+      "x": 4218,
+      "y": 156,
+      "width": 584,
+      "height": 302,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bGA",
+      "roundness": null,
+      "seed": 376579053,
+      "version": 236,
+      "versionNonce": 1164814979,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1790067719210,
+      "created": 1790066366084,
+      "link": null,
+      "locked": false,
+      "text": "6. OPENCODE ISOLATED WORKSPACE & AI AGENT (Host)\n• Now again, all the things that happened like the logsmith, the telemetry, and the offset profiler, all that\ninformation and all their output was stored in the database, in the tables, as well as in the folder which you\ncreated in step 1.\nThat folder will now contain the opencode metadata from the crawling step: all the crawled information, like\nwhat all pages were crawled, their raw text, outbound links, raw HTML, all that thing, and HTML/.html files\nas well, separately. It is better for opencode to understand the output of the logsmith agent, the logsmith\nphase, the stylometric phase, and the offset profiler phase, all that output in a single folder. For opencode, for\nthat specific job, it will be properly structured and stored.\nAgain after the stylometric and oxy profiler phase, we come to opencode or the AI phase. Since we have now\ncollected all the information, all the context for AI, we will give AI the prompt: \"You are an NTRO AI agent\nspecializing in XYZ and you have to read all the files in this folder for this job.\" That folder will also contain\nthe original query, fanout query, and all the information that ever happened for that specific job.\nopencode gets the entire context and he will also draft a prompt, create a prompt, which will be good for it\nand explain to him each and everything from that folder:\n- What files are there?\n- What each file would mean\n- What the HTML files would mean\n- What the stylometric folder would have\n- What its output would mean\nopencode has a great idea about everything and then\n\nAnd then we would tell him to read through every single thing and create a graph. There will be two types\nof graph:\n1. A Cytoscape graph. I don't know how that is made.\n2. A Mermaid.js graph.\nYou could only keep the Cytoscape graph if you want but I am telling you about the Mermaid graph because\nwe could make it look a bit better. opencode has to read through all the HTML files and everything else and\nthen make a graph connecting everything that had been done in that job.\n\nI made an example cytoscape.js graph so you may take a look at it. :\n\nimport cytoscape from \"cytoscape\";\n\nconst cy = cytoscape({\n  container: document.getElementById(\"threat-graph\"),\n\n  elements: [\n    // Nodes\n    { data: { id: \"orgA\", label: \"Organization A\", type: \"organization\", ring: 3 } },\n\n    { data: { id: \"orgB\", label: \"Organization B\", type: \"organization\", ring: 2 } },\n    { data: { id: \"alias\", label: \"Person / Alias\", type: \"person\", ring: 2 } },\n    { data: { id: \"guns\", label: \"Firearms\", type: \"product\", ring: 2 } },\n    { data: { id: \"drugs\", label: \"Drugs\", type: \"product\", ring: 2 } },\n    { data: { id: \"market\", label: \"Marketplace\", type: \"website\", ring: 2 } },\n    { data: { id: \"wallet\", label: \"Crypto Wallet\", type: \"wallet\", ring: 2 } },\n\n    { data: { id: \"domain\", label: \"Domain\", type: \"website\", ring: 1 } },\n    { data: { id: \"evidence\", label: \"Source Evidence\", type: \"evidence\", ring: 1 } },\n    { data: { id: \"lead\", label: \"Investigation Lead\", type: \"lead\", ring: 1 } },\n\n    // Directed relationships\n    { data: { id: \"e1\", source: \"orgA\", target: \"orgB\", label: \"CONNECTED TO\" } },\n    { data: { id: \"e2\", source: \"orgA\", target: \"alias\", label: \"CONNECTED TO\" } },\n    { data: { id: \"e3\", source: \"orgA\", target: \"guns\", label: \"SELLS\" } },\n    { data: { id: \"e4\", source: \"orgA\", target: \"drugs\", label: \"SELLS\" } },\n    { data: { id: \"e5\", source: \"orgA\", target: \"market\", label: \"USES\" } },\n    { data: { id: \"e6\", source: \"orgA\", target: \"wallet\", label: \"USES\" } },\n    { data: { id: \"e7\", source: \"market\", target: \"domain\", label: \"HOSTED ON\" } },\n    { data: { id: \"e8\", source: \"orgA\", target: \"evidence\", label: \"SUPPORTED BY\" } },\n    { data: { id: \"e9\", source: \"evidence\", target: \"lead\", label: \"GENERATES LEAD\" } }\n  ],\n\n  style: [\n    {\n      selector: \"node\",\n      style: {\n        \"label\": \"data(label)\",\n        \"text-wrap\": \"wrap\",\n        \"text-max-width\": \"100px\",\n        \"text-valign\": \"center\",\n        \"text-halign\": \"center\",\n        \"color\": \"#ffffff\",\n        \"font-size\": \"11px\",\n        \"background-color\": \"#374151\",\n        \"border-width\": 2,\n        \"border-color\": \"#9ca3af\",\n        \"width\": \"65px\",\n        \"height\": \"65px\"\n      }\n    },\n\n    // Organization: circle\n    {\n      selector: 'node[type=\"organization\"]',\n      style: {\n        \"shape\": \"ellipse\",\n        \"background-color\": \"#991b1b\",\n        \"border-color\": \"#ef4444\",\n        \"width\": \"95px\",\n        \"height\": \"95px\"\n      }\n    },\n\n    // Person / Alias: circle\n    {\n      selector: 'node[type=\"person\"]',\n      style: {\n        \"shape\": \"ellipse\",\n        \"background-color\": \"#1d4ed8\",\n        \"border-color\": \"#60a5fa\"\n      }\n    },\n\n    // Products: rounded rectangles\n    {\n      selector: 'node[type=\"product\"]',\n      style: {\n        \"shape\": \"roundrectangle\",\n        \"background-color\": \"#166534\",\n        \"border-color\": \"#4ade80\"\n      }\n    },\n\n    // Websites: rectangle\n    {\n      selector: 'node[type=\"website\"]',\n      style: {\n        \"shape\": \"rectangle\",\n        \"background-color\": \"#4c1d95\",\n        \"border-color\": \"#a78bfa\"\n      }\n    },\n\n    // Wallet: cylinder\n    {\n      selector: 'node[type=\"wallet\"]',\n      style: {\n        \"shape\": \"barrel\",\n        \"background-color\": \"#92400e\",\n        \"border-color\": \"#fbbf24\"\n      }\n    },\n\n    // Evidence: document-like shape\n    {\n      selector: 'node[type=\"evidence\"]',\n      style: {\n        \"shape\": \"rectangle\",\n        \"background-color\": \"#374151\",\n        \"border-color\": \"#d1d5db\"\n      }\n    },\n\n    // Investigation lead: diamond\n    {\n      selector: 'node[type=\"lead\"]',\n      style: {\n        \"shape\": \"diamond\",\n        \"background-color\": \"#854d0e\",\n        \"border-color\": \"#facc15\",\n        \"width\": \"85px\",\n        \"height\": \"85px\"\n      }\n    },\n\n    // All edges\n    {\n      selector: \"edge\",\n      style: {\n        \"curve-style\": \"bezier\",\n        \"width\": 2,\n        \"line-color\": \"#9ca3af\",\n        \"target-arrow-color\": \"#d1d5db\",\n        \"target-arrow-shape\": \"triangle\",\n        \"label\": \"data(label)\",\n        \"font-size\": \"8px\",\n        \"color\": \"#d1d5db\",\n        \"text-background-color\": \"#111827\",\n        \"text-background-opacity\": 0.9,\n        \"text-background-padding\": \"3px\"\n      }\n    },\n\n    // Highlight selected node\n    {\n      selector: \"node:selected\",\n      style: {\n        \"border-color\": \"#facc15\",\n        \"border-width\": 4\n      }\n    }\n  ],\n\n  layout: {\n    name: \"concentric\",\n    fit: true,\n    padding: 60,\n    avoidOverlap: true,\n    spacingFactor: 1.4,\n    minNodeSpacing: 40,\n\n    // Higher values go closer to the center\n    concentric: node => node.data(\"ring\"),\n\n    levelWidth: () => 1,\n\n    startAngle: 0,\n    clockwise: true,\n    animate: true\n  }\n});\n ",
+      "fontSize": 14,
+      "baseFontSize": null,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "6. OPENCODE ISOLATED WORKSPACE & AI AGENT (Host)\n• Now again, all the things that happened like the logsmith, the telemetry, and the offset profiler, all that information and all their output was stored in the database, in the tables, as well as in the folder which you created in step 1.\nThat folder will now contain the opencode metadata from the crawling step: all the crawled information, like what all pages were crawled, their raw text, outbound links, raw HTML, all that thing, and HTML/.html files as well, separately. It is better for opencode to understand the output of the logsmith agent, the logsmith phase, the stylometric phase, and the offset profiler phase, all that output in a single folder. For opencode, for that specific job, it will be properly structured and stored.\nAgain after the stylometric and oxy profiler phase, we come to opencode or the AI phase. Since we have now collected all the information, all the context for AI, we will give AI the prompt: \"You are an NTRO AI agent specializing in XYZ and you have to read all the files in this folder for this job.\" That folder will also contain the original query, fanout query, and all the information that ever happened for that specific job.\nopencode gets the entire context and he will also draft a prompt, create a prompt, which will be good for it and explain to him each and everything from that folder:\n- What files are there?\n- What each file would mean\n- What the HTML files would mean\n- What the stylometric folder would have\n- What its output would mean\nopencode has a great idea about everything and then\n\nAnd then we would tell him to read through every single thing and create a graph. There will be two types of graph:\n1. A Cytoscape graph. I don't know how that is made.\n2. A Mermaid.js graph.\nYou could only keep the Cytoscape graph if you want but I am telling you about the Mermaid graph because we could make it look a bit better. opencode has to read through all the HTML files and everything else and then make a graph connecting everything that had been done in that job.\n\nI made an example cytoscape.js graph so you may take a look at it. :\n\nimport cytoscape from \"cytoscape\";\n\nconst cy = cytoscape({\n  container: document.getElementById(\"threat-graph\"),\n\n  elements: [\n    // Nodes\n    { data: { id: \"orgA\", label: \"Organization A\", type: \"organization\", ring: 3 } },\n\n    { data: { id: \"orgB\", label: \"Organization B\", type: \"organization\", ring: 2 } },\n    { data: { id: \"alias\", label: \"Person / Alias\", type: \"person\", ring: 2 } },\n    { data: { id: \"guns\", label: \"Firearms\", type: \"product\", ring: 2 } },\n    { data: { id: \"drugs\", label: \"Drugs\", type: \"product\", ring: 2 } },\n    { data: { id: \"market\", label: \"Marketplace\", type: \"website\", ring: 2 } },\n    { data: { id: \"wallet\", label: \"Crypto Wallet\", type: \"wallet\", ring: 2 } },\n\n    { data: { id: \"domain\", label: \"Domain\", type: \"website\", ring: 1 } },\n    { data: { id: \"evidence\", label: \"Source Evidence\", type: \"evidence\", ring: 1 } },\n    { data: { id: \"lead\", label: \"Investigation Lead\", type: \"lead\", ring: 1 } },\n\n    // Directed relationships\n    { data: { id: \"e1\", source: \"orgA\", target: \"orgB\", label: \"CONNECTED TO\" } },\n    { data: { id: \"e2\", source: \"orgA\", target: \"alias\", label: \"CONNECTED TO\" } },\n    { data: { id: \"e3\", source: \"orgA\", target: \"guns\", label: \"SELLS\" } },\n    { data: { id: \"e4\", source: \"orgA\", target: \"drugs\", label: \"SELLS\" } },\n    { data: { id: \"e5\", source: \"orgA\", target: \"market\", label: \"USES\" } },\n    { data: { id: \"e6\", source: \"orgA\", target: \"wallet\", label: \"USES\" } },\n    { data: { id: \"e7\", source: \"market\", target: \"domain\", label: \"HOSTED ON\" } },\n    { data: { id: \"e8\", source: \"orgA\", target: \"evidence\", label: \"SUPPORTED BY\" } },\n    { data: { id: \"e9\", source: \"evidence\", target: \"lead\", label: \"GENERATES LEAD\" } }\n  ],\n\n  style: [\n    {\n      selector: \"node\",\n      style: {\n        \"label\": \"data(label)\",\n        \"text-wrap\": \"wrap\",\n        \"text-max-width\": \"100px\",\n        \"text-valign\": \"center\",\n        \"text-halign\": \"center\",\n        \"color\": \"#ffffff\",\n        \"font-size\": \"11px\",\n        \"background-color\": \"#374151\",\n        \"border-width\": 2,\n        \"border-color\": \"#9ca3af\",\n        \"width\": \"65px\",\n        \"height\": \"65px\"\n      }\n    },\n\n    // Organization: circle\n    {\n      selector: 'node[type=\"organization\"]',\n      style: {\n        \"shape\": \"ellipse\",\n        \"background-color\": \"#991b1b\",\n        \"border-color\": \"#ef4444\",\n        \"width\": \"95px\",\n        \"height\": \"95px\"\n      }\n    },\n\n    // Person / Alias: circle\n    {\n      selector: 'node[type=\"person\"]',\n      style: {\n        \"shape\": \"ellipse\",\n        \"background-color\": \"#1d4ed8\",\n        \"border-color\": \"#60a5fa\"\n      }\n    },\n\n    // Products: rounded rectangles\n    {\n      selector: 'node[type=\"product\"]',\n      style: {\n        \"shape\": \"roundrectangle\",\n        \"background-color\": \"#166534\",\n        \"border-color\": \"#4ade80\"\n      }\n    },\n\n    // Websites: rectangle\n    {\n      selector: 'node[type=\"website\"]',\n      style: {\n        \"shape\": \"rectangle\",\n        \"background-color\": \"#4c1d95\",\n        \"border-color\": \"#a78bfa\"\n      }\n    },\n\n    // Wallet: cylinder\n    {\n      selector: 'node[type=\"wallet\"]',\n      style: {\n        \"shape\": \"barrel\",\n        \"background-color\": \"#92400e\",\n        \"border-color\": \"#fbbf24\"\n      }\n    },\n\n    // Evidence: document-like shape\n    {\n      selector: 'node[type=\"evidence\"]',\n      style: {\n        \"shape\": \"rectangle\",\n        \"background-color\": \"#374151\",\n        \"border-color\": \"#d1d5db\"\n      }\n    },\n\n    // Investigation lead: diamond\n    {\n      selector: 'node[type=\"lead\"]',\n      style: {\n        \"shape\": \"diamond\",\n        \"background-color\": \"#854d0e\",\n        \"border-color\": \"#facc15\",\n        \"width\": \"85px\",\n        \"height\": \"85px\"\n      }\n    },\n\n    // All edges\n    {\n      selector: \"edge\",\n      style: {\n        \"curve-style\": \"bezier\",\n        \"width\": 2,\n        \"line-color\": \"#9ca3af\",\n        \"target-arrow-color\": \"#d1d5db\",\n        \"target-arrow-shape\": \"triangle\",\n        \"label\": \"data(label)\",\n        \"font-size\": \"8px\",\n        \"color\": \"#d1d5db\",\n        \"text-background-color\": \"#111827\",\n        \"text-background-opacity\": 0.9,\n        \"text-background-padding\": \"3px\"\n      }\n    },\n\n    // Highlight selected node\n    {\n      selector: \"node:selected\",\n      style: {\n        \"border-color\": \"#facc15\",\n        \"border-width\": 4\n      }\n    }\n  ],\n\n  layout: {\n    name: \"concentric\",\n    fit: true,\n    padding: 60,\n    avoidOverlap: true,\n    spacingFactor: 1.4,\n    minNodeSpacing: 40,\n\n    // Higher values go closer to the center\n    concentric: node => node.data(\"ring\"),\n\n    levelWidth: () => 1,\n\n    startAngle: 0,\n    clockwise: true,\n    animate: true\n  }\n});\n ",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "6uD0_IHmo83dWqG2qFD3h",
+      "type": "arrow",
+      "x": 4120,
+      "y": 250.0,
+      "width": 80,
+      "height": 55.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bGB",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 963687459,
+      "version": 284,
+      "versionNonce": 1922662115,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790067719209,
+      "created": 1790066372068,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          55.0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "A87_JtChxS4JOz5VZ4m2i",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5
+        ]
+      },
+      "endBinding": {
+        "elementId": "NrVCcAzNn2VOKyJVpZ9tZ",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  },
+  "files": {}
+}

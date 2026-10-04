@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Logs & temp
+*.log
+data/logs/
+
+# Node
+frontend/node_modules/
+frontend/.next/

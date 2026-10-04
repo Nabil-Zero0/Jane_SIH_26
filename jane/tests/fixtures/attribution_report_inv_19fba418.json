@@ -1,0 +1,97 @@
+{
+  "investigation_id": "inv_19fba418",
+  "marketplace_name": "CounterfeitSales and Tordex Market (THE X WAVE MARKET)",
+  "threat_category": "Counterfeiting",
+  "threat_actors": [
+    {
+      "designated_id": "TA-01",
+      "primary_handle": "CounterfeitSales",
+      "role": "Lead Vendor",
+      "evidence_quote": "Counterfeit Money and Documents for Sale Online - Darkweb"
+    },
+    {
+      "designated_id": "TA-02",
+      "primary_handle": "torverified",
+      "role": "Operator / Contact",
+      "evidence_quote": "https://t.me/torverified"
+    },
+    {
+      "designated_id": "TA-03",
+      "primary_handle": "THE X WAVE MARKET",
+      "role": "Marketplace Operator",
+      "evidence_quote": "Welcome to THE X WAVE MARKET. we have 0% Tolerance for Scam"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "Counterfeit 20 Dollar Bills (USD $20 Bills)",
+      "category": "Counterfeiting",
+      "evidence_quote": "Buy USD 20 Bills | Counterfeit 20 Dollar Bills for Sale"
+    },
+    {
+      "name": "Canadian Fake ID",
+      "category": "Counterfeiting",
+      "evidence_quote": "Canadian Fake ID for Sale Online"
+    },
+    {
+      "name": "Fake IDs - Tordex Market",
+      "category": "Counterfeiting",
+      "evidence_quote": "Fake IDs"
+    },
+    {
+      "name": "Drugs, Cocaine, LSD, Heroin, Clone Cards, Guns",
+      "category": "Narcotics",
+      "evidence_quote": "Buy Drugs, Weed, Cocaine"
+    },
+    {
+      "name": "5-MeO Psychedelics",
+      "category": "Narcotics",
+      "evidence_quote": "5-MeO Archives - Tordex Market"
+    }
+  ],
+  "graph_links": [
+    {
+      "source": "CounterfeitSales",
+      "target": "Counterfeit 20 Dollar Bills (USD $20 Bills)",
+      "relation": "SELLS",
+      "confidence": 0.95,
+      "evidence_quote": "Counterfeit 20 Dollar Bills for Sale"
+    },
+    {
+      "source": "CounterfeitSales",
+      "target": "kuganzodocs@tutanota.com",
+      "relation": "USES",
+      "confidence": 0.9,
+      "evidence_quote": "kuganzodocs@tutanota.com"
+    },
+    {
+      "source": "CounterfeitSales",
+      "target": "torverified",
+      "relation": "USES",
+      "confidence": 0.9,
+      "evidence_quote": "https://t.me/torverified"
+    },
+    {
+      "source": "Tordex Market",
+      "target": "Fake IDs",
+      "relation": "SELLS",
+      "confidence": 0.9,
+      "evidence_quote": "Fake IDs"
+    },
+    {
+      "source": "Tordex Market",
+      "target": "darkcasi6u6ud7zmwwddmlqebslwwxsvofhjwuopaeu5dsoaabzx4eyd.onion",
+      "relation": "HOSTED ON",
+      "confidence": 0.95,
+      "evidence_quote": "Tordex Market"
+    },
+    {
+      "source": "THE X WAVE MARKET",
+      "target": "Tordex Market",
+      "relation": "OPERATES",
+      "confidence": 0.9,
+      "evidence_quote": "Welcome to THE X WAVE MARKET. we have 0% Tolerance for Scam"
+    }
+  ],
+  "stylometric_notes": "4 pages profiled, all opsec_score 70.0 with Probable timezone UTC+6. kyb5vrehqma6gsmsrg4jpl5fl6quwhvakq4qui3kffebtpc5r4i54hid.onion avg_word_length 5.22/5.01, vocab_richness 0.27/0.30; darkcasi6u6ud7zmwwddmlqebslwwxsvofhjwuopaeu5dsoaabzx4eyd.onion avg_word_length 5.52/6.41, vocab_richness 0.29/0.31. No Burrows Delta cross-comparison data in profile.json. Locksmith: nginx (CounterfeitSales) and Apache (Tordex), no clearnet IP leaks. Contact reuse (kuganzodocs@tutanota.com, https://t.me/torverified) links both CounterfeitSales pages to single operator."
+}
